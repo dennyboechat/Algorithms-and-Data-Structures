@@ -1,0 +1,24 @@
+SORTING ALGORITHM PERFORMANCE ANALYSIS SUMMARY
+==================================================
+
+OVERALL PERFORMANCE SUMMARY
+------------------------------
+
+QuickSort:
+  Average execution time: 0.034490 seconds
+  Min execution time: 0.000280 seconds
+  Max execution time: 0.140004 seconds
+  Average peak memory: 0.02 MB
+  Total datasets tested: 25
+
+MergeSort:
+  Average execution time: 0.042299 seconds
+  Min execution time: 0.000454 seconds
+  Max execution time: 0.132063 seconds
+  Average peak memory: 0.03 MB
+  Total datasets tested: 25
+
+BEST/WORST PERFORMERS
+------------------------------
+Fastest execution: QuickSort on sorted_100 (0.000280s)
+Slowest execution: QuickSort on duplicate_heavy_5000 (0.140004s)

@@ -1,0 +1,656 @@
+{
+  "QuickSort": {
+    "random_100": {
+      "execution_time": 0.0003132919991912786,
+      "memory_peak": 0.0026397705078125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 567,
+        "swaps": 256,
+        "recursive_calls": 69,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "random_100"
+    },
+    "sorted_100": {
+      "execution_time": 0.0002803330025926698,
+      "memory_peak": 0.0026397705078125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 574,
+        "swaps": 48,
+        "recursive_calls": 64,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "sorted_100"
+    },
+    "reverse_sorted_100": {
+      "execution_time": 0.00033400000029359944,
+      "memory_peak": 0.0026397705078125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 698,
+        "swaps": 204,
+        "recursive_calls": 64,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "reverse_sorted_100"
+    },
+    "nearly_sorted_100": {
+      "execution_time": 0.00033341699963784777,
+      "memory_peak": 0.0026397705078125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 687,
+        "swaps": 94,
+        "recursive_calls": 70,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "nearly_sorted_100"
+    },
+    "duplicate_heavy_100": {
+      "execution_time": 0.0006337919985526241,
+      "memory_peak": 0.0026397705078125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 1201,
+        "swaps": 143,
+        "recursive_calls": 95,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "duplicate_heavy_100"
+    },
+    "random_500": {
+      "execution_time": 0.005579583998041926,
+      "memory_peak": 0.00623321533203125,
+      "memory_current": 0.0625,
+      "algorithm_stats": {
+        "comparisons": 4646,
+        "swaps": 1814,
+        "recursive_calls": 339,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "random_500"
+    },
+    "sorted_500": {
+      "execution_time": 0.004309584001020994,
+      "memory_peak": 0.00635528564453125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 4982,
+        "swaps": 240,
+        "recursive_calls": 334,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "sorted_500"
+    },
+    "reverse_sorted_500": {
+      "execution_time": 0.005612208999082213,
+      "memory_peak": 0.00632476806640625,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 5191,
+        "swaps": 1382,
+        "recursive_calls": 331,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "reverse_sorted_500"
+    },
+    "nearly_sorted_500": {
+      "execution_time": 0.005074166001577396,
+      "memory_peak": 0.00623321533203125,
+      "memory_current": 0.03125,
+      "algorithm_stats": {
+        "comparisons": 4937,
+        "swaps": 887,
+        "recursive_calls": 340,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "nearly_sorted_500"
+    },
+    "duplicate_heavy_500": {
+      "execution_time": 0.007964000000356464,
+      "memory_peak": 0.00745391845703125,
+      "memory_current": 0.015625,
+      "algorithm_stats": {
+        "comparisons": 7647,
+        "swaps": 1441,
+        "recursive_calls": 475,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "duplicate_heavy_500"
+    },
+    "random_1000": {
+      "execution_time": 0.01582487500127172,
+      "memory_peak": 0.01114654541015625,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 12137,
+        "swaps": 5414,
+        "recursive_calls": 669,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "random_1000"
+    },
+    "sorted_1000": {
+      "execution_time": 0.01238754199948744,
+      "memory_peak": 0.01087188720703125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 10893,
+        "swaps": 503,
+        "recursive_calls": 660,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "sorted_1000"
+    },
+    "reverse_sorted_1000": {
+      "execution_time": 0.014117417002125876,
+      "memory_peak": 0.01108551025390625,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 10932,
+        "swaps": 3518,
+        "recursive_calls": 662,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "reverse_sorted_1000"
+    },
+    "nearly_sorted_1000": {
+      "execution_time": 0.012796167000487912,
+      "memory_peak": 0.01108551025390625,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 10666,
+        "swaps": 2343,
+        "recursive_calls": 672,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "nearly_sorted_1000"
+    },
+    "duplicate_heavy_1000": {
+      "execution_time": 0.021545208001043648,
+      "memory_peak": 0.01212310791015625,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 17109,
+        "swaps": 3622,
+        "recursive_calls": 950,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "duplicate_heavy_1000"
+    },
+    "random_2500": {
+      "execution_time": 0.04510349999691243,
+      "memory_peak": 0.02222442626953125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 30828,
+        "swaps": 15603,
+        "recursive_calls": 1667,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "random_2500"
+    },
+    "sorted_2500": {
+      "execution_time": 0.036836125000263564,
+      "memory_peak": 0.02222442626953125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 30760,
+        "swaps": 1258,
+        "recursive_calls": 1669,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "sorted_2500"
+    },
+    "reverse_sorted_2500": {
+      "execution_time": 0.040159958000003826,
+      "memory_peak": 0.02222442626953125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 29093,
+        "swaps": 11159,
+        "recursive_calls": 1663,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "reverse_sorted_2500"
+    },
+    "nearly_sorted_2500": {
+      "execution_time": 0.04801949999819044,
+      "memory_peak": 0.02271270751953125,
+      "memory_current": 0.015625,
+      "algorithm_stats": {
+        "comparisons": 37457,
+        "swaps": 11944,
+        "recursive_calls": 1670,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "nearly_sorted_2500"
+    },
+    "duplicate_heavy_2500": {
+      "execution_time": 0.06418741599918576,
+      "memory_peak": 0.02350616455078125,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 47100,
+        "swaps": 10349,
+        "recursive_calls": 2375,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "duplicate_heavy_2500"
+    },
+    "random_5000": {
+      "execution_time": 0.10418558299716096,
+      "memory_peak": 0.04300689697265625,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 72238,
+        "swaps": 35384,
+        "recursive_calls": 3342,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "random_5000"
+    },
+    "sorted_5000": {
+      "execution_time": 0.08422870900176349,
+      "memory_peak": 0.04300689697265625,
+      "memory_current": 0.09375,
+      "algorithm_stats": {
+        "comparisons": 68150,
+        "swaps": 2516,
+        "recursive_calls": 3340,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "sorted_5000"
+    },
+    "reverse_sorted_5000": {
+      "execution_time": 0.09600045800107182,
+      "memory_peak": 0.04288482666015625,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 71950,
+        "swaps": 22023,
+        "recursive_calls": 3303,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "reverse_sorted_5000"
+    },
+    "nearly_sorted_5000": {
+      "execution_time": 0.09642883299966343,
+      "memory_peak": 0.04319000244140625,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 71106,
+        "swaps": 24510,
+        "recursive_calls": 3347,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "nearly_sorted_5000"
+    },
+    "duplicate_heavy_5000": {
+      "execution_time": 0.1400036250015546,
+      "memory_peak": 0.04386138916015625,
+      "memory_current": 0.015625,
+      "algorithm_stats": {
+        "comparisons": 97229,
+        "swaps": 24089,
+        "recursive_calls": 4750,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "duplicate_heavy_5000"
+    }
+  },
+  "MergeSort": {
+    "random_100": {
+      "execution_time": 0.0006176660026540048,
+      "memory_peak": 0.00292205810546875,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 534,
+        "merges": 672,
+        "recursive_calls": 99,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "random_100"
+    },
+    "sorted_100": {
+      "execution_time": 0.0005086250021122396,
+      "memory_peak": 0.00292205810546875,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 356,
+        "merges": 672,
+        "recursive_calls": 99,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "sorted_100"
+    },
+    "reverse_sorted_100": {
+      "execution_time": 0.0004535000007308554,
+      "memory_peak": 0.00292205810546875,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 316,
+        "merges": 672,
+        "recursive_calls": 99,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "reverse_sorted_100"
+    },
+    "nearly_sorted_100": {
+      "execution_time": 0.0005544580017158296,
+      "memory_peak": 0.00292205810546875,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 471,
+        "merges": 672,
+        "recursive_calls": 99,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "nearly_sorted_100"
+    },
+    "duplicate_heavy_100": {
+      "execution_time": 0.0005247080007393379,
+      "memory_peak": 0.00292205810546875,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 510,
+        "merges": 672,
+        "recursive_calls": 99,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 100,
+      "dataset_type": "duplicate_heavy_100"
+    },
+    "random_500": {
+      "execution_time": 0.006769540999812307,
+      "memory_peak": 0.00920867919921875,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 3857,
+        "merges": 4488,
+        "recursive_calls": 499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "random_500"
+    },
+    "sorted_500": {
+      "execution_time": 0.006372333002218511,
+      "memory_peak": 0.00920867919921875,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 2272,
+        "merges": 4488,
+        "recursive_calls": 499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "sorted_500"
+    },
+    "reverse_sorted_500": {
+      "execution_time": 0.006629416999203386,
+      "memory_peak": 0.00920867919921875,
+      "memory_current": 0.03125,
+      "algorithm_stats": {
+        "comparisons": 2216,
+        "merges": 4488,
+        "recursive_calls": 499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "reverse_sorted_500"
+    },
+    "nearly_sorted_500": {
+      "execution_time": 0.0067350839999562595,
+      "memory_peak": 0.00920867919921875,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 3390,
+        "merges": 4488,
+        "recursive_calls": 499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "nearly_sorted_500"
+    },
+    "duplicate_heavy_500": {
+      "execution_time": 0.007072458996844944,
+      "memory_peak": 0.00920867919921875,
+      "memory_current": 0.03125,
+      "algorithm_stats": {
+        "comparisons": 3834,
+        "merges": 4488,
+        "recursive_calls": 499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 500,
+      "dataset_type": "duplicate_heavy_500"
+    },
+    "random_1000": {
+      "execution_time": 0.018127834002370946,
+      "memory_peak": 0.01753997802734375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 8707,
+        "merges": 9976,
+        "recursive_calls": 999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "random_1000"
+    },
+    "sorted_1000": {
+      "execution_time": 0.01779920799890533,
+      "memory_peak": 0.01753997802734375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 5044,
+        "merges": 9976,
+        "recursive_calls": 999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "sorted_1000"
+    },
+    "reverse_sorted_1000": {
+      "execution_time": 0.01667704200008302,
+      "memory_peak": 0.01753997802734375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 4932,
+        "merges": 9976,
+        "recursive_calls": 999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "reverse_sorted_1000"
+    },
+    "nearly_sorted_1000": {
+      "execution_time": 0.017324665997875854,
+      "memory_peak": 0.01753997802734375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 7637,
+        "merges": 9976,
+        "recursive_calls": 999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "nearly_sorted_1000"
+    },
+    "duplicate_heavy_1000": {
+      "execution_time": 0.01738479200139409,
+      "memory_peak": 0.01753997802734375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 8674,
+        "merges": 9976,
+        "recursive_calls": 999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 1000,
+      "dataset_type": "duplicate_heavy_1000"
+    },
+    "random_2500": {
+      "execution_time": 0.06022266599757131,
+      "memory_peak": 0.04012298583984375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 25149,
+        "merges": 28404,
+        "recursive_calls": 2499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "random_2500"
+    },
+    "sorted_2500": {
+      "execution_time": 0.05747808399974019,
+      "memory_peak": 0.04012298583984375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 14752,
+        "merges": 28404,
+        "recursive_calls": 2499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "sorted_2500"
+    },
+    "reverse_sorted_2500": {
+      "execution_time": 0.053505832998780534,
+      "memory_peak": 0.04012298583984375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 13652,
+        "merges": 28404,
+        "recursive_calls": 2499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "reverse_sorted_2500"
+    },
+    "nearly_sorted_2500": {
+      "execution_time": 0.057630374998552725,
+      "memory_peak": 0.04012298583984375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 23078,
+        "merges": 28404,
+        "recursive_calls": 2499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "nearly_sorted_2500"
+    },
+    "duplicate_heavy_2500": {
+      "execution_time": 0.056764832999760984,
+      "memory_peak": 0.04012298583984375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 25103,
+        "merges": 28404,
+        "recursive_calls": 2499,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 2500,
+      "dataset_type": "duplicate_heavy_2500"
+    },
+    "random_5000": {
+      "execution_time": 0.13206262499807053,
+      "memory_peak": 0.07955169677734375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 55231,
+        "merges": 61808,
+        "recursive_calls": 4999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "random_5000"
+    },
+    "sorted_5000": {
+      "execution_time": 0.13140299999940908,
+      "memory_peak": 0.07955169677734375,
+      "memory_current": 0.03125,
+      "algorithm_stats": {
+        "comparisons": 32004,
+        "merges": 61808,
+        "recursive_calls": 4999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "sorted_5000"
+    },
+    "reverse_sorted_5000": {
+      "execution_time": 0.12367054100104724,
+      "memory_peak": 0.07955169677734375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 29804,
+        "merges": 61808,
+        "recursive_calls": 4999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "reverse_sorted_5000"
+    },
+    "nearly_sorted_5000": {
+      "execution_time": 0.13072399999873596,
+      "memory_peak": 0.07955169677734375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 49946,
+        "merges": 61808,
+        "recursive_calls": 4999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "nearly_sorted_5000"
+    },
+    "duplicate_heavy_5000": {
+      "execution_time": 0.13045687500198255,
+      "memory_peak": 0.07955169677734375,
+      "memory_current": 0.0,
+      "algorithm_stats": {
+        "comparisons": 55073,
+        "merges": 61808,
+        "recursive_calls": 4999,
+        "is_correctly_sorted": true
+      },
+      "dataset_size": 5000,
+      "dataset_type": "duplicate_heavy_5000"
+    }
+  }
+}

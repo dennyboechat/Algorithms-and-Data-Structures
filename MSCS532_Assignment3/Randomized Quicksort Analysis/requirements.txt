@@ -1,0 +1,12 @@
+# Requirements for Randomized Quicksort Performance Analysis
+# Install with: pip install -r requirements.txt
+
+# Core implementation has no dependencies (uses only Python standard library)
+
+# Optional dependencies for performance analysis and plotting:
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Optional dependencies for enhanced testing:
+# pytest>=7.0.0  # Alternative test runner
+# coverage>=6.0  # Code coverage analysis

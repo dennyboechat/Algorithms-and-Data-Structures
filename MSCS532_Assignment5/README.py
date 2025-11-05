@@ -4,12 +4,8 @@ README: Quicksort Implementation Guide
 This directory contains comprehensive implementations of the Quicksort algorithm
 with detailed explanations and examples.
 
-Files Overview:
-===============
-
-1. quicksort.py - Complete implementation with multiple pivot strategies
-2. simple_quicksort.py - Educational version showing the three main steps clearly
-3. test_quicksort.py - Comprehensive test suite and performance analysis
+Note: Report.docx provides an in-depth analysis of the algorithm, its complexity,
+and practical considerations.
 
 Running the Code:
 ================

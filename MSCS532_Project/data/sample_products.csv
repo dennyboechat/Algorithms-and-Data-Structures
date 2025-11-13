@@ -1,0 +1,301 @@
+product_id,name,category,subcategory,price,brand,features,average_rating,num_reviews
+prod_001,Electronics Product 1,Electronics,Audio,661.5,TechGiant,"{'category_encoded': 0, 'screen_size': 4.20827152823828, 'storage': np.int64(64), 'camera_mp': 9}",3.6,104
+prod_002,Books Product 2,Books,Science,26.16,LearnPress,"{'category_encoded': 1, 'pages': 157, 'language': 'English', 'difficulty': np.str_('Advanced')}",4.2,90
+prod_003,Fashion Product 3,Fashion,General,82.14,BookHouse,{'category_encoded': 3},4.0,95
+prod_004,Books Product 4,Books,History,22.27,BookHouse,"{'category_encoded': 1, 'pages': 386, 'language': 'English', 'difficulty': np.str_('Advanced')}",4.1,90
+prod_005,Beauty Product 5,Beauty,General,73.05,BookHouse,{'category_encoded': 5},3.4,105
+prod_006,Beauty Product 6,Beauty,General,26.78,TechCorp,{'category_encoded': 5},5.0,134
+prod_007,Fashion Product 7,Fashion,General,157.19,BookHouse,{'category_encoded': 3},4.6,84
+prod_008,Automotive Product 8,Automotive,General,145.79,BookHouse,{'category_encoded': 6},3.1,111
+prod_009,Books Product 9,Books,Fiction,18.24,LearnPress,"{'category_encoded': 1, 'pages': 762, 'language': 'English', 'difficulty': np.str_('Intermediate')}",3.1,95
+prod_010,Electronics Product 10,Electronics,Audio,716.08,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.341607621514507, 'storage': np.int64(512), 'camera_mp': 25}",2.8,100
+prod_011,Sports Product 11,Sports,Apparel,178.64,AthleteGear,{'category_encoded': 2},4.0,97
+prod_012,Home Product 12,Home,General,345.29,TechCorp,{'category_encoded': 4},2.0,101
+prod_013,Sports Product 13,Sports,Apparel,42.66,AthleteGear,{'category_encoded': 2},3.0,106
+prod_014,Fashion Product 14,Fashion,General,133.58,BookHouse,{'category_encoded': 3},3.7,111
+prod_015,Beauty Product 15,Beauty,General,139.19,TechCorp,{'category_encoded': 5},5.0,108
+prod_016,Sports Product 16,Sports,Apparel,251.06,SportsPro,{'category_encoded': 2},3.8,105
+prod_017,Home Product 17,Home,General,265.4,BookHouse,{'category_encoded': 4},3.9,109
+prod_018,Fashion Product 18,Fashion,General,188.24,TechCorp,{'category_encoded': 3},3.9,113
+prod_019,Automotive Product 19,Automotive,General,50.25,BookHouse,{'category_encoded': 6},4.0,96
+prod_020,Home Product 20,Home,General,116.1,TechCorp,{'category_encoded': 4},3.8,91
+prod_021,Books Product 21,Books,Fiction,58.65,KnowledgeBooks,"{'category_encoded': 1, 'pages': 556, 'language': 'English', 'difficulty': np.str_('Advanced')}",3.5,86
+prod_022,Sports Product 22,Sports,Apparel,162.64,SportsPro,{'category_encoded': 2},3.7,103
+prod_023,Fashion Product 23,Fashion,General,112.5,BookHouse,{'category_encoded': 3},3.2,114
+prod_024,Home Product 24,Home,General,199.69,TechCorp,{'category_encoded': 4},3.8,97
+prod_025,Home Product 25,Home,General,390.42,TechCorp,{'category_encoded': 4},4.0,99
+prod_026,Automotive Product 26,Automotive,General,620.22,TechCorp,{'category_encoded': 6},3.9,87
+prod_027,Electronics Product 27,Electronics,Mobile,1284.59,TechCorp,"{'category_encoded': 0, 'screen_size': 5.887896418032208, 'storage': np.int64(64), 'camera_mp': 25}",2.9,104
+prod_028,Automotive Product 28,Automotive,General,416.18,TechCorp,{'category_encoded': 6},3.4,88
+prod_029,Fashion Product 29,Fashion,General,103.06,BookHouse,{'category_encoded': 3},2.9,99
+prod_030,Home Product 30,Home,General,478.78,TechCorp,{'category_encoded': 4},2.7,109
+prod_031,Electronics Product 31,Electronics,Laptop,563.18,TechCorp,"{'category_encoded': 0, 'screen_size': 6.7909566545134705, 'storage': np.int64(512), 'camera_mp': 47}",5.0,105
+prod_032,Electronics Product 32,Electronics,Audio,286.65,TechCorp,"{'category_encoded': 0, 'screen_size': 5.5552240658356125, 'storage': np.int64(256), 'camera_mp': 12}",3.5,107
+prod_033,Home Product 33,Home,General,44.79,BookHouse,{'category_encoded': 4},4.2,82
+prod_034,Electronics Product 34,Electronics,Mobile,703.87,TechCorp,"{'category_encoded': 0, 'screen_size': 5.385840810012867, 'storage': np.int64(512), 'camera_mp': 18}",3.6,109
+prod_035,Books Product 35,Books,Fiction,56.22,BookHouse,"{'category_encoded': 1, 'pages': 451, 'language': 'English', 'difficulty': np.str_('Intermediate')}",4.5,96
+prod_036,Electronics Product 36,Electronics,Camera,538.93,TechGiant,"{'category_encoded': 0, 'screen_size': 4.20776291885758, 'storage': np.int64(64), 'camera_mp': 17}",5.0,110
+prod_037,Books Product 37,Books,Technology,50.77,BookHouse,"{'category_encoded': 1, 'pages': 450, 'language': 'English', 'difficulty': np.str_('Intermediate')}",3.7,118
+prod_038,Electronics Product 38,Electronics,Camera,915.12,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.165958395889541, 'storage': np.int64(128), 'camera_mp': 29}",3.3,93
+prod_039,Fashion Product 39,Fashion,General,106.77,BookHouse,{'category_encoded': 3},3.0,114
+prod_040,Automotive Product 40,Automotive,General,527.05,BookHouse,{'category_encoded': 6},4.9,108
+prod_041,Automotive Product 41,Automotive,General,90.39,BookHouse,{'category_encoded': 6},4.9,93
+prod_042,Home Product 42,Home,General,76.27,BookHouse,{'category_encoded': 4},3.4,105
+prod_043,Books Product 43,Books,Science,45.41,KnowledgeBooks,"{'category_encoded': 1, 'pages': 187, 'language': 'English', 'difficulty': np.str_('Beginner')}",5.0,107
+prod_044,Beauty Product 44,Beauty,General,31.22,TechCorp,{'category_encoded': 5},3.6,84
+prod_045,Electronics Product 45,Electronics,Camera,408.09,TechCorp,"{'category_encoded': 0, 'screen_size': 5.38467242325937, 'storage': np.int64(512), 'camera_mp': 15}",4.7,97
+prod_046,Sports Product 46,Sports,Footwear,227.86,AthleteGear,{'category_encoded': 2},3.3,110
+prod_047,Books Product 47,Books,Fiction,47.71,BookHouse,"{'category_encoded': 1, 'pages': 697, 'language': 'English', 'difficulty': np.str_('Intermediate')}",3.4,125
+prod_048,Sports Product 48,Sports,Apparel,105.57,FitnessCorp,{'category_encoded': 2},4.5,96
+prod_049,Fashion Product 49,Fashion,General,178.95,BookHouse,{'category_encoded': 3},2.6,97
+prod_050,Home Product 50,Home,General,319.3,BookHouse,{'category_encoded': 4},5.0,96
+prod_051,Fashion Product 51,Fashion,General,123.82,TechCorp,{'category_encoded': 3},5.0,81
+prod_052,Automotive Product 52,Automotive,General,470.5,BookHouse,{'category_encoded': 6},3.8,103
+prod_053,Books Product 53,Books,Science,11.61,KnowledgeBooks,"{'category_encoded': 1, 'pages': 418, 'language': 'English', 'difficulty': np.str_('Intermediate')}",4.4,91
+prod_054,Sports Product 54,Sports,Footwear,111.89,AthleteGear,{'category_encoded': 2},3.3,98
+prod_055,Fashion Product 55,Fashion,General,125.67,TechCorp,{'category_encoded': 3},4.2,98
+prod_056,Automotive Product 56,Automotive,General,564.43,TechCorp,{'category_encoded': 6},4.5,90
+prod_057,Books Product 57,Books,Technology,11.83,KnowledgeBooks,"{'category_encoded': 1, 'pages': 724, 'language': 'English', 'difficulty': np.str_('Intermediate')}",3.6,100
+prod_058,Home Product 58,Home,General,148.17,TechCorp,{'category_encoded': 4},4.6,98
+prod_059,Home Product 59,Home,General,113.4,BookHouse,{'category_encoded': 4},3.8,99
+prod_060,Fashion Product 60,Fashion,General,149.67,BookHouse,{'category_encoded': 3},5.0,100
+prod_061,Electronics Product 61,Electronics,Camera,274.46,TechGiant,"{'category_encoded': 0, 'screen_size': 4.675671106805469, 'storage': np.int64(512), 'camera_mp': 38}",4.0,76
+prod_062,Automotive Product 62,Automotive,General,256.71,TechCorp,{'category_encoded': 6},4.7,96
+prod_063,Electronics Product 63,Electronics,Mobile,284.98,TechGiant,"{'category_encoded': 0, 'screen_size': 5.462713581020153, 'storage': np.int64(512), 'camera_mp': 27}",4.8,95
+prod_064,Sports Product 64,Sports,Apparel,271.95,AthleteGear,{'category_encoded': 2},5.0,120
+prod_065,Fashion Product 65,Fashion,General,63.13,BookHouse,{'category_encoded': 3},4.6,90
+prod_066,Sports Product 66,Sports,Apparel,285.17,SportsPro,{'category_encoded': 2},3.0,129
+prod_067,Electronics Product 67,Electronics,Laptop,492.91,TechCorp,"{'category_encoded': 0, 'screen_size': 4.752899984020894, 'storage': np.int64(256), 'camera_mp': 29}",4.8,86
+prod_068,Books Product 68,Books,Science,65.42,BookHouse,"{'category_encoded': 1, 'pages': 276, 'language': 'English', 'difficulty': np.str_('Beginner')}",5.0,103
+prod_069,Books Product 69,Books,Fiction,21.6,LearnPress,"{'category_encoded': 1, 'pages': 613, 'language': 'English', 'difficulty': np.str_('Intermediate')}",4.3,99
+prod_070,Home Product 70,Home,General,284.08,TechCorp,{'category_encoded': 4},4.7,80
+prod_071,Fashion Product 71,Fashion,General,99.96,TechCorp,{'category_encoded': 3},3.5,89
+prod_072,Beauty Product 72,Beauty,General,82.71,BookHouse,{'category_encoded': 5},3.4,92
+prod_073,Books Product 73,Books,History,49.06,LearnPress,"{'category_encoded': 1, 'pages': 165, 'language': 'English', 'difficulty': np.str_('Beginner')}",3.8,93
+prod_074,Sports Product 74,Sports,Equipment,203.9,FitnessCorp,{'category_encoded': 2},3.4,111
+prod_075,Sports Product 75,Sports,Footwear,74.77,FitnessCorp,{'category_encoded': 2},5.0,93
+prod_076,Electronics Product 76,Electronics,Audio,1389.62,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.59908660173842, 'storage': np.int64(128), 'camera_mp': 27}",3.4,102
+prod_077,Sports Product 77,Sports,Footwear,271.21,FitnessCorp,{'category_encoded': 2},4.0,103
+prod_078,Home Product 78,Home,General,335.79,BookHouse,{'category_encoded': 4},3.0,88
+prod_079,Beauty Product 79,Beauty,General,21.68,BookHouse,{'category_encoded': 5},4.2,100
+prod_080,Automotive Product 80,Automotive,General,788.08,TechCorp,{'category_encoded': 6},4.2,105
+prod_081,Fashion Product 81,Fashion,General,178.16,BookHouse,{'category_encoded': 3},3.0,101
+prod_082,Books Product 82,Books,Technology,36.53,LearnPress,"{'category_encoded': 1, 'pages': 326, 'language': 'English', 'difficulty': np.str_('Beginner')}",3.8,95
+prod_083,Beauty Product 83,Beauty,General,25.5,BookHouse,{'category_encoded': 5},4.2,94
+prod_084,Beauty Product 84,Beauty,General,133.18,TechCorp,{'category_encoded': 5},4.6,101
+prod_085,Fashion Product 85,Fashion,General,31.13,BookHouse,{'category_encoded': 3},3.5,116
+prod_086,Books Product 86,Books,Technology,55.58,KnowledgeBooks,"{'category_encoded': 1, 'pages': 275, 'language': 'English', 'difficulty': np.str_('Intermediate')}",5.0,107
+prod_087,Beauty Product 87,Beauty,General,45.56,TechCorp,{'category_encoded': 5},3.7,89
+prod_088,Electronics Product 88,Electronics,Camera,563.06,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.928645730176123, 'storage': np.int64(512), 'camera_mp': 32}",3.5,91
+prod_089,Home Product 89,Home,General,387.5,TechCorp,{'category_encoded': 4},5.0,115
+prod_090,Electronics Product 90,Electronics,Audio,1368.5,TechCorp,"{'category_encoded': 0, 'screen_size': 5.952305642676242, 'storage': np.int64(128), 'camera_mp': 34}",3.6,102
+prod_091,Beauty Product 91,Beauty,General,41.74,BookHouse,{'category_encoded': 5},3.2,97
+prod_092,Sports Product 92,Sports,Footwear,138.0,SportsPro,{'category_encoded': 2},3.8,87
+prod_093,Beauty Product 93,Beauty,General,125.65,TechCorp,{'category_encoded': 5},4.7,102
+prod_094,Electronics Product 94,Electronics,Camera,1334.58,InnovaTech,"{'category_encoded': 0, 'screen_size': 4.337741171235811, 'storage': np.int64(128), 'camera_mp': 43}",4.4,84
+prod_095,Electronics Product 95,Electronics,Camera,1271.9,TechCorp,"{'category_encoded': 0, 'screen_size': 4.222722618965159, 'storage': np.int64(64), 'camera_mp': 21}",4.8,115
+prod_096,Automotive Product 96,Automotive,General,229.63,BookHouse,{'category_encoded': 6},5.0,109
+prod_097,Sports Product 97,Sports,Apparel,259.59,AthleteGear,{'category_encoded': 2},3.4,111
+prod_098,Electronics Product 98,Electronics,Mobile,882.81,TechCorp,"{'category_encoded': 0, 'screen_size': 4.097937032637006, 'storage': np.int64(256), 'camera_mp': 24}",4.0,83
+prod_099,Beauty Product 99,Beauty,General,29.25,TechCorp,{'category_encoded': 5},3.2,98
+prod_100,Sports Product 100,Sports,Apparel,56.87,FitnessCorp,{'category_encoded': 2},3.6,92
+prod_101,Sports Product 101,Sports,Equipment,96.04,AthleteGear,{'category_encoded': 2},4.3,93
+prod_102,Beauty Product 102,Beauty,General,10.41,TechCorp,{'category_encoded': 5},4.0,116
+prod_103,Books Product 103,Books,Fiction,33.19,BookHouse,"{'category_encoded': 1, 'pages': 523, 'language': 'English', 'difficulty': np.str_('Intermediate')}",2.8,91
+prod_104,Beauty Product 104,Beauty,General,11.07,TechCorp,{'category_encoded': 5},4.6,91
+prod_105,Fashion Product 105,Fashion,General,77.69,TechCorp,{'category_encoded': 3},4.3,100
+prod_106,Beauty Product 106,Beauty,General,65.58,TechCorp,{'category_encoded': 5},5.0,83
+prod_107,Home Product 107,Home,General,442.93,TechCorp,{'category_encoded': 4},3.7,105
+prod_108,Sports Product 108,Sports,Footwear,96.92,FitnessCorp,{'category_encoded': 2},4.1,97
+prod_109,Fashion Product 109,Fashion,General,182.91,BookHouse,{'category_encoded': 3},4.6,94
+prod_110,Automotive Product 110,Automotive,General,665.9,BookHouse,{'category_encoded': 6},5.0,78
+prod_111,Automotive Product 111,Automotive,General,502.85,TechCorp,{'category_encoded': 6},3.4,97
+prod_112,Books Product 112,Books,Fiction,51.74,KnowledgeBooks,"{'category_encoded': 1, 'pages': 183, 'language': 'English', 'difficulty': np.str_('Beginner')}",4.3,82
+prod_113,Automotive Product 113,Automotive,General,756.29,TechCorp,{'category_encoded': 6},5.0,96
+prod_114,Books Product 114,Books,Technology,19.72,LearnPress,"{'category_encoded': 1, 'pages': 476, 'language': 'English', 'difficulty': np.str_('Advanced')}",4.9,113
+prod_115,Sports Product 115,Sports,Footwear,168.4,AthleteGear,{'category_encoded': 2},4.4,101
+prod_116,Automotive Product 116,Automotive,General,349.53,TechCorp,{'category_encoded': 6},4.7,116
+prod_117,Automotive Product 117,Automotive,General,399.96,TechCorp,{'category_encoded': 6},4.8,97
+prod_118,Electronics Product 118,Electronics,Mobile,1225.68,TechGiant,"{'category_encoded': 0, 'screen_size': 5.339258549204747, 'storage': np.int64(128), 'camera_mp': 39}",3.7,117
+prod_119,Sports Product 119,Sports,Equipment,188.3,FitnessCorp,{'category_encoded': 2},4.8,96
+prod_120,Home Product 120,Home,General,92.73,TechCorp,{'category_encoded': 4},4.9,114
+prod_121,Fashion Product 121,Fashion,General,19.71,TechCorp,{'category_encoded': 3},5.0,95
+prod_122,Beauty Product 122,Beauty,General,53.57,TechCorp,{'category_encoded': 5},5.0,105
+prod_123,Books Product 123,Books,History,41.78,LearnPress,"{'category_encoded': 1, 'pages': 487, 'language': 'English', 'difficulty': np.str_('Beginner')}",4.0,127
+prod_124,Sports Product 124,Sports,Equipment,279.18,AthleteGear,{'category_encoded': 2},3.1,97
+prod_125,Beauty Product 125,Beauty,General,30.59,TechCorp,{'category_encoded': 5},3.1,111
+prod_126,Fashion Product 126,Fashion,General,102.69,TechCorp,{'category_encoded': 3},4.0,101
+prod_127,Sports Product 127,Sports,Apparel,129.05,AthleteGear,{'category_encoded': 2},2.7,101
+prod_128,Electronics Product 128,Electronics,Mobile,418.84,TechGiant,"{'category_encoded': 0, 'screen_size': 4.740722280002757, 'storage': np.int64(256), 'camera_mp': 10}",3.1,94
+prod_129,Sports Product 129,Sports,Equipment,162.08,SportsPro,{'category_encoded': 2},3.1,111
+prod_130,Electronics Product 130,Electronics,Camera,380.96,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.3321312476066085, 'storage': np.int64(256), 'camera_mp': 41}",4.6,100
+prod_131,Electronics Product 131,Electronics,Audio,1010.43,TechGiant,"{'category_encoded': 0, 'screen_size': 5.7081320835468485, 'storage': np.int64(128), 'camera_mp': 26}",3.6,101
+prod_132,Sports Product 132,Sports,Footwear,222.2,AthleteGear,{'category_encoded': 2},3.0,101
+prod_133,Home Product 133,Home,General,400.49,BookHouse,{'category_encoded': 4},4.2,93
+prod_134,Fashion Product 134,Fashion,General,42.53,BookHouse,{'category_encoded': 3},3.7,99
+prod_135,Fashion Product 135,Fashion,General,174.76,BookHouse,{'category_encoded': 3},2.6,93
+prod_136,Automotive Product 136,Automotive,General,504.32,TechCorp,{'category_encoded': 6},5.0,117
+prod_137,Electronics Product 137,Electronics,Audio,1474.96,TechCorp,"{'category_encoded': 0, 'screen_size': 5.2227526257214505, 'storage': np.int64(256), 'camera_mp': 11}",3.9,94
+prod_138,Automotive Product 138,Automotive,General,242.04,BookHouse,{'category_encoded': 6},5.0,91
+prod_139,Books Product 139,Books,History,58.14,LearnPress,"{'category_encoded': 1, 'pages': 782, 'language': 'English', 'difficulty': np.str_('Advanced')}",3.4,94
+prod_140,Books Product 140,Books,Fiction,24.75,KnowledgeBooks,"{'category_encoded': 1, 'pages': 156, 'language': 'English', 'difficulty': np.str_('Intermediate')}",4.3,105
+prod_141,Automotive Product 141,Automotive,General,60.74,BookHouse,{'category_encoded': 6},4.6,107
+prod_142,Home Product 142,Home,General,337.81,BookHouse,{'category_encoded': 4},4.4,108
+prod_143,Books Product 143,Books,Science,44.13,KnowledgeBooks,"{'category_encoded': 1, 'pages': 483, 'language': 'English', 'difficulty': np.str_('Intermediate')}",5.0,102
+prod_144,Home Product 144,Home,General,72.95,TechCorp,{'category_encoded': 4},4.6,113
+prod_145,Electronics Product 145,Electronics,Audio,1232.87,TechGiant,"{'category_encoded': 0, 'screen_size': 6.121259431800095, 'storage': np.int64(512), 'camera_mp': 9}",3.9,94
+prod_146,Automotive Product 146,Automotive,General,652.61,TechCorp,{'category_encoded': 6},3.4,118
+prod_147,Sports Product 147,Sports,Equipment,183.31,SportsPro,{'category_encoded': 2},4.1,91
+prod_148,Sports Product 148,Sports,Footwear,201.39,FitnessCorp,{'category_encoded': 2},5.0,100
+prod_149,Books Product 149,Books,History,15.02,LearnPress,"{'category_encoded': 1, 'pages': 259, 'language': 'English', 'difficulty': np.str_('Intermediate')}",4.6,111
+prod_150,Beauty Product 150,Beauty,General,82.82,BookHouse,{'category_encoded': 5},3.2,88
+prod_151,Books Product 151,Books,History,21.1,KnowledgeBooks,"{'category_encoded': 1, 'pages': 389, 'language': 'English', 'difficulty': np.str_('Intermediate')}",4.4,93
+prod_152,Electronics Product 152,Electronics,Audio,864.47,TechCorp,"{'category_encoded': 0, 'screen_size': 4.140555725582809, 'storage': np.int64(512), 'camera_mp': 29}",4.6,106
+prod_153,Books Product 153,Books,History,33.83,BookHouse,"{'category_encoded': 1, 'pages': 256, 'language': 'English', 'difficulty': np.str_('Advanced')}",3.9,102
+prod_154,Fashion Product 154,Fashion,General,182.83,BookHouse,{'category_encoded': 3},4.1,121
+prod_155,Beauty Product 155,Beauty,General,141.08,BookHouse,{'category_encoded': 5},3.4,105
+prod_156,Home Product 156,Home,General,440.87,TechCorp,{'category_encoded': 4},4.3,90
+prod_157,Sports Product 157,Sports,Footwear,284.32,FitnessCorp,{'category_encoded': 2},3.9,85
+prod_158,Automotive Product 158,Automotive,General,699.37,BookHouse,{'category_encoded': 6},2.6,99
+prod_159,Beauty Product 159,Beauty,General,61.77,TechCorp,{'category_encoded': 5},5.0,112
+prod_160,Electronics Product 160,Electronics,Laptop,1149.65,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.943139513188765, 'storage': np.int64(512), 'camera_mp': 30}",3.7,103
+prod_161,Automotive Product 161,Automotive,General,603.95,BookHouse,{'category_encoded': 6},4.9,97
+prod_162,Beauty Product 162,Beauty,General,134.63,TechCorp,{'category_encoded': 5},2.9,93
+prod_163,Electronics Product 163,Electronics,Mobile,1216.62,TechGiant,"{'category_encoded': 0, 'screen_size': 5.631417183598712, 'storage': np.int64(256), 'camera_mp': 17}",3.8,100
+prod_164,Electronics Product 164,Electronics,Camera,546.68,TechGiant,"{'category_encoded': 0, 'screen_size': 6.174569497945051, 'storage': np.int64(64), 'camera_mp': 43}",3.2,75
+prod_165,Electronics Product 165,Electronics,Camera,1206.19,InnovaTech,"{'category_encoded': 0, 'screen_size': 6.318764445628346, 'storage': np.int64(512), 'camera_mp': 35}",3.8,93
+prod_166,Home Product 166,Home,General,392.24,TechCorp,{'category_encoded': 4},4.2,100
+prod_167,Beauty Product 167,Beauty,General,10.19,BookHouse,{'category_encoded': 5},4.8,109
+prod_168,Home Product 168,Home,General,97.36,BookHouse,{'category_encoded': 4},2.9,115
+prod_169,Home Product 169,Home,General,311.56,BookHouse,{'category_encoded': 4},3.4,105
+prod_170,Electronics Product 170,Electronics,Audio,889.96,TechCorp,"{'category_encoded': 0, 'screen_size': 5.952872005354218, 'storage': np.int64(256), 'camera_mp': 22}",4.0,102
+prod_171,Electronics Product 171,Electronics,Audio,454.58,TechGiant,"{'category_encoded': 0, 'screen_size': 4.422408846678028, 'storage': np.int64(128), 'camera_mp': 32}",4.3,88
+prod_172,Fashion Product 172,Fashion,General,45.32,TechCorp,{'category_encoded': 3},5.0,104
+prod_173,Automotive Product 173,Automotive,General,303.01,BookHouse,{'category_encoded': 6},4.2,80
+prod_174,Books Product 174,Books,Fiction,10.55,LearnPress,"{'category_encoded': 1, 'pages': 460, 'language': 'English', 'difficulty': np.str_('Advanced')}",5.0,76
+prod_175,Beauty Product 175,Beauty,General,116.55,TechCorp,{'category_encoded': 5},4.4,118
+prod_176,Beauty Product 176,Beauty,General,35.24,BookHouse,{'category_encoded': 5},3.9,99
+prod_177,Beauty Product 177,Beauty,General,77.39,TechCorp,{'category_encoded': 5},4.2,101
+prod_178,Fashion Product 178,Fashion,General,35.15,BookHouse,{'category_encoded': 3},4.6,104
+prod_179,Sports Product 179,Sports,Equipment,179.47,AthleteGear,{'category_encoded': 2},3.7,103
+prod_180,Beauty Product 180,Beauty,General,147.36,BookHouse,{'category_encoded': 5},2.7,90
+prod_181,Sports Product 181,Sports,Footwear,215.53,AthleteGear,{'category_encoded': 2},4.4,112
+prod_182,Fashion Product 182,Fashion,General,57.93,TechCorp,{'category_encoded': 3},3.9,99
+prod_183,Fashion Product 183,Fashion,General,156.26,BookHouse,{'category_encoded': 3},4.2,111
+prod_184,Fashion Product 184,Fashion,General,117.12,BookHouse,{'category_encoded': 3},4.8,110
+prod_185,Books Product 185,Books,History,46.03,LearnPress,"{'category_encoded': 1, 'pages': 702, 'language': 'English', 'difficulty': np.str_('Intermediate')}",3.7,99
+prod_186,Books Product 186,Books,History,20.77,BookHouse,"{'category_encoded': 1, 'pages': 346, 'language': 'English', 'difficulty': np.str_('Advanced')}",3.9,124
+prod_187,Electronics Product 187,Electronics,Mobile,683.24,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.17737455868844, 'storage': np.int64(64), 'camera_mp': 37}",2.5,109
+prod_188,Fashion Product 188,Fashion,General,81.34,TechCorp,{'category_encoded': 3},4.8,105
+prod_189,Books Product 189,Books,Technology,78.21,BookHouse,"{'category_encoded': 1, 'pages': 365, 'language': 'English', 'difficulty': np.str_('Advanced')}",3.7,123
+prod_190,Sports Product 190,Sports,Apparel,164.68,SportsPro,{'category_encoded': 2},4.5,108
+prod_191,Fashion Product 191,Fashion,General,180.41,TechCorp,{'category_encoded': 3},5.0,99
+prod_192,Fashion Product 192,Fashion,General,124.36,TechCorp,{'category_encoded': 3},3.7,90
+prod_193,Automotive Product 193,Automotive,General,205.31,BookHouse,{'category_encoded': 6},4.0,97
+prod_194,Automotive Product 194,Automotive,General,595.06,TechCorp,{'category_encoded': 6},4.6,109
+prod_195,Fashion Product 195,Fashion,General,110.4,TechCorp,{'category_encoded': 3},3.5,94
+prod_196,Automotive Product 196,Automotive,General,460.03,BookHouse,{'category_encoded': 6},4.0,101
+prod_197,Fashion Product 197,Fashion,General,82.0,BookHouse,{'category_encoded': 3},3.3,90
+prod_198,Fashion Product 198,Fashion,General,178.31,TechCorp,{'category_encoded': 3},4.5,78
+prod_199,Fashion Product 199,Fashion,General,150.37,BookHouse,{'category_encoded': 3},3.1,108
+prod_200,Beauty Product 200,Beauty,General,124.52,BookHouse,{'category_encoded': 5},5.0,92
+prod_201,Electronics Product 201,Electronics,Laptop,1499.41,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.217253505845183, 'storage': np.int64(512), 'camera_mp': 29}",5.0,105
+prod_202,Automotive Product 202,Automotive,General,581.99,BookHouse,{'category_encoded': 6},2.6,89
+prod_203,Electronics Product 203,Electronics,Mobile,1016.96,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.44560243782385, 'storage': np.int64(64), 'camera_mp': 11}",4.1,87
+prod_204,Electronics Product 204,Electronics,Mobile,861.56,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.107842310646623, 'storage': np.int64(64), 'camera_mp': 31}",4.4,88
+prod_205,Automotive Product 205,Automotive,General,652.64,TechCorp,{'category_encoded': 6},3.7,70
+prod_206,Electronics Product 206,Electronics,Mobile,636.29,TechGiant,"{'category_encoded': 0, 'screen_size': 6.935576405167422, 'storage': np.int64(256), 'camera_mp': 24}",4.8,106
+prod_207,Automotive Product 207,Automotive,General,760.32,TechCorp,{'category_encoded': 6},2.1,89
+prod_208,Fashion Product 208,Fashion,General,17.97,BookHouse,{'category_encoded': 3},3.9,109
+prod_209,Beauty Product 209,Beauty,General,96.23,BookHouse,{'category_encoded': 5},4.0,106
+prod_210,Sports Product 210,Sports,Footwear,106.47,SportsPro,{'category_encoded': 2},5.0,99
+prod_211,Beauty Product 211,Beauty,General,143.35,TechCorp,{'category_encoded': 5},4.3,110
+prod_212,Fashion Product 212,Fashion,General,73.56,TechCorp,{'category_encoded': 3},3.8,110
+prod_213,Automotive Product 213,Automotive,General,518.66,BookHouse,{'category_encoded': 6},5.0,116
+prod_214,Fashion Product 214,Fashion,General,116.54,TechCorp,{'category_encoded': 3},4.2,93
+prod_215,Sports Product 215,Sports,Footwear,113.53,AthleteGear,{'category_encoded': 2},3.5,81
+prod_216,Beauty Product 216,Beauty,General,70.59,BookHouse,{'category_encoded': 5},5.0,105
+prod_217,Books Product 217,Books,Technology,36.7,KnowledgeBooks,"{'category_encoded': 1, 'pages': 388, 'language': 'English', 'difficulty': np.str_('Beginner')}",4.6,86
+prod_218,Beauty Product 218,Beauty,General,24.19,TechCorp,{'category_encoded': 5},4.7,93
+prod_219,Books Product 219,Books,Fiction,10.8,BookHouse,"{'category_encoded': 1, 'pages': 673, 'language': 'English', 'difficulty': np.str_('Beginner')}",4.3,102
+prod_220,Fashion Product 220,Fashion,General,52.82,TechCorp,{'category_encoded': 3},4.0,100
+prod_221,Sports Product 221,Sports,Equipment,155.25,AthleteGear,{'category_encoded': 2},3.3,103
+prod_222,Home Product 222,Home,General,476.93,TechCorp,{'category_encoded': 4},3.2,94
+prod_223,Fashion Product 223,Fashion,General,130.38,TechCorp,{'category_encoded': 3},3.0,92
+prod_224,Electronics Product 224,Electronics,Camera,606.78,TechGiant,"{'category_encoded': 0, 'screen_size': 4.813288761292197, 'storage': np.int64(512), 'camera_mp': 9}",4.7,85
+prod_225,Automotive Product 225,Automotive,General,602.4,TechCorp,{'category_encoded': 6},3.8,102
+prod_226,Electronics Product 226,Electronics,Mobile,220.01,TechCorp,"{'category_encoded': 0, 'screen_size': 5.748778170412789, 'storage': np.int64(64), 'camera_mp': 16}",4.2,98
+prod_227,Fashion Product 227,Fashion,General,170.36,TechCorp,{'category_encoded': 3},4.5,84
+prod_228,Automotive Product 228,Automotive,General,375.52,TechCorp,{'category_encoded': 6},3.2,92
+prod_229,Electronics Product 229,Electronics,Audio,1495.14,TechGiant,"{'category_encoded': 0, 'screen_size': 4.687515853642486, 'storage': np.int64(256), 'camera_mp': 48}",4.6,84
+prod_230,Automotive Product 230,Automotive,General,604.04,TechCorp,{'category_encoded': 6},3.2,91
+prod_231,Books Product 231,Books,History,42.13,KnowledgeBooks,"{'category_encoded': 1, 'pages': 413, 'language': 'English', 'difficulty': np.str_('Beginner')}",3.5,110
+prod_232,Sports Product 232,Sports,Apparel,240.3,SportsPro,{'category_encoded': 2},4.2,97
+prod_233,Automotive Product 233,Automotive,General,790.74,BookHouse,{'category_encoded': 6},4.8,98
+prod_234,Sports Product 234,Sports,Footwear,95.28,FitnessCorp,{'category_encoded': 2},3.4,96
+prod_235,Electronics Product 235,Electronics,Laptop,790.65,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.890741658368474, 'storage': np.int64(256), 'camera_mp': 45}",2.7,104
+prod_236,Fashion Product 236,Fashion,General,167.58,BookHouse,{'category_encoded': 3},2.4,94
+prod_237,Electronics Product 237,Electronics,Mobile,853.42,TechGiant,"{'category_encoded': 0, 'screen_size': 4.168528232042317, 'storage': np.int64(128), 'camera_mp': 31}",3.6,105
+prod_238,Beauty Product 238,Beauty,General,32.46,TechCorp,{'category_encoded': 5},5.0,81
+prod_239,Home Product 239,Home,General,443.8,BookHouse,{'category_encoded': 4},4.5,86
+prod_240,Fashion Product 240,Fashion,General,61.24,BookHouse,{'category_encoded': 3},4.8,100
+prod_241,Home Product 241,Home,General,193.05,TechCorp,{'category_encoded': 4},4.4,94
+prod_242,Home Product 242,Home,General,325.3,BookHouse,{'category_encoded': 4},4.4,96
+prod_243,Electronics Product 243,Electronics,Mobile,1374.63,TechCorp,"{'category_encoded': 0, 'screen_size': 4.232922327966344, 'storage': np.int64(64), 'camera_mp': 42}",4.2,95
+prod_244,Beauty Product 244,Beauty,General,11.86,TechCorp,{'category_encoded': 5},2.3,94
+prod_245,Automotive Product 245,Automotive,General,591.45,TechCorp,{'category_encoded': 6},3.8,98
+prod_246,Home Product 246,Home,General,277.65,BookHouse,{'category_encoded': 4},2.1,109
+prod_247,Beauty Product 247,Beauty,General,58.33,TechCorp,{'category_encoded': 5},5.0,114
+prod_248,Automotive Product 248,Automotive,General,486.61,BookHouse,{'category_encoded': 6},3.5,86
+prod_249,Sports Product 249,Sports,Equipment,36.17,FitnessCorp,{'category_encoded': 2},2.9,103
+prod_250,Automotive Product 250,Automotive,General,371.71,TechCorp,{'category_encoded': 6},3.5,101
+prod_251,Automotive Product 251,Automotive,General,178.77,BookHouse,{'category_encoded': 6},1.9,113
+prod_252,Automotive Product 252,Automotive,General,572.47,TechCorp,{'category_encoded': 6},4.0,100
+prod_253,Automotive Product 253,Automotive,General,785.33,BookHouse,{'category_encoded': 6},3.2,108
+prod_254,Books Product 254,Books,Fiction,39.35,KnowledgeBooks,"{'category_encoded': 1, 'pages': 673, 'language': 'English', 'difficulty': np.str_('Beginner')}",4.0,112
+prod_255,Sports Product 255,Sports,Apparel,195.96,SportsPro,{'category_encoded': 2},3.1,101
+prod_256,Electronics Product 256,Electronics,Laptop,830.62,TechCorp,"{'category_encoded': 0, 'screen_size': 5.000885187510597, 'storage': np.int64(64), 'camera_mp': 14}",4.7,99
+prod_257,Books Product 257,Books,Fiction,43.9,BookHouse,"{'category_encoded': 1, 'pages': 238, 'language': 'English', 'difficulty': np.str_('Beginner')}",5.0,91
+prod_258,Beauty Product 258,Beauty,General,35.44,BookHouse,{'category_encoded': 5},3.1,107
+prod_259,Fashion Product 259,Fashion,General,196.62,TechCorp,{'category_encoded': 3},4.6,121
+prod_260,Sports Product 260,Sports,Apparel,118.15,FitnessCorp,{'category_encoded': 2},1.7,96
+prod_261,Beauty Product 261,Beauty,General,74.99,BookHouse,{'category_encoded': 5},4.7,106
+prod_262,Sports Product 262,Sports,Equipment,255.85,AthleteGear,{'category_encoded': 2},5.0,96
+prod_263,Books Product 263,Books,Fiction,13.41,KnowledgeBooks,"{'category_encoded': 1, 'pages': 235, 'language': 'English', 'difficulty': np.str_('Beginner')}",5.0,108
+prod_264,Books Product 264,Books,History,11.02,BookHouse,"{'category_encoded': 1, 'pages': 310, 'language': 'English', 'difficulty': np.str_('Beginner')}",4.3,97
+prod_265,Automotive Product 265,Automotive,General,343.07,BookHouse,{'category_encoded': 6},3.6,103
+prod_266,Books Product 266,Books,History,50.52,LearnPress,"{'category_encoded': 1, 'pages': 569, 'language': 'English', 'difficulty': np.str_('Intermediate')}",3.4,88
+prod_267,Home Product 267,Home,General,153.7,TechCorp,{'category_encoded': 4},3.5,92
+prod_268,Beauty Product 268,Beauty,General,137.1,BookHouse,{'category_encoded': 5},3.2,100
+prod_269,Electronics Product 269,Electronics,Laptop,373.75,TechGiant,"{'category_encoded': 0, 'screen_size': 5.3315775652639035, 'storage': np.int64(256), 'camera_mp': 25}",3.9,101
+prod_270,Sports Product 270,Sports,Equipment,198.18,FitnessCorp,{'category_encoded': 2},4.4,95
+prod_271,Fashion Product 271,Fashion,General,143.51,TechCorp,{'category_encoded': 3},4.4,93
+prod_272,Automotive Product 272,Automotive,General,633.52,TechCorp,{'category_encoded': 6},2.9,108
+prod_273,Fashion Product 273,Fashion,General,144.31,BookHouse,{'category_encoded': 3},3.2,92
+prod_274,Beauty Product 274,Beauty,General,119.73,BookHouse,{'category_encoded': 5},2.4,98
+prod_275,Automotive Product 275,Automotive,General,377.31,TechCorp,{'category_encoded': 6},3.5,108
+prod_276,Home Product 276,Home,General,484.45,BookHouse,{'category_encoded': 4},4.2,119
+prod_277,Home Product 277,Home,General,27.72,BookHouse,{'category_encoded': 4},5.0,94
+prod_278,Sports Product 278,Sports,Apparel,257.77,FitnessCorp,{'category_encoded': 2},3.1,97
+prod_279,Fashion Product 279,Fashion,General,72.76,BookHouse,{'category_encoded': 3},4.2,94
+prod_280,Sports Product 280,Sports,Equipment,282.76,FitnessCorp,{'category_encoded': 2},4.4,97
+prod_281,Sports Product 281,Sports,Footwear,198.73,SportsPro,{'category_encoded': 2},4.7,87
+prod_282,Sports Product 282,Sports,Apparel,280.16,FitnessCorp,{'category_encoded': 2},4.9,95
+prod_283,Sports Product 283,Sports,Footwear,144.06,FitnessCorp,{'category_encoded': 2},4.9,99
+prod_284,Beauty Product 284,Beauty,General,142.89,TechCorp,{'category_encoded': 5},4.0,111
+prod_285,Beauty Product 285,Beauty,General,25.41,BookHouse,{'category_encoded': 5},4.2,79
+prod_286,Electronics Product 286,Electronics,Mobile,557.87,TechGiant,"{'category_encoded': 0, 'screen_size': 4.468619706059866, 'storage': np.int64(512), 'camera_mp': 14}",4.5,103
+prod_287,Fashion Product 287,Fashion,General,99.21,BookHouse,{'category_encoded': 3},4.8,89
+prod_288,Electronics Product 288,Electronics,Audio,1109.53,InnovaTech,"{'category_encoded': 0, 'screen_size': 6.514464924965928, 'storage': np.int64(128), 'camera_mp': 27}",4.4,126
+prod_289,Books Product 289,Books,Technology,20.76,BookHouse,"{'category_encoded': 1, 'pages': 537, 'language': 'English', 'difficulty': np.str_('Intermediate')}",3.7,103
+prod_290,Home Product 290,Home,General,134.63,BookHouse,{'category_encoded': 4},4.2,117
+prod_291,Automotive Product 291,Automotive,General,568.01,BookHouse,{'category_encoded': 6},4.0,96
+prod_292,Automotive Product 292,Automotive,General,797.93,TechCorp,{'category_encoded': 6},5.0,99
+prod_293,Beauty Product 293,Beauty,General,56.94,BookHouse,{'category_encoded': 5},4.3,120
+prod_294,Sports Product 294,Sports,Equipment,136.54,AthleteGear,{'category_encoded': 2},4.2,89
+prod_295,Books Product 295,Books,Technology,15.24,LearnPress,"{'category_encoded': 1, 'pages': 584, 'language': 'English', 'difficulty': np.str_('Advanced')}",3.7,104
+prod_296,Fashion Product 296,Fashion,General,62.45,BookHouse,{'category_encoded': 3},3.6,96
+prod_297,Fashion Product 297,Fashion,General,46.47,TechCorp,{'category_encoded': 3},4.2,93
+prod_298,Automotive Product 298,Automotive,General,580.01,TechCorp,{'category_encoded': 6},4.2,103
+prod_299,Beauty Product 299,Beauty,General,80.77,BookHouse,{'category_encoded': 5},4.3,93
+prod_300,Electronics Product 300,Electronics,Mobile,1479.5,InnovaTech,"{'category_encoded': 0, 'screen_size': 5.187123890721377, 'storage': np.int64(256), 'camera_mp': 49}",3.2,93

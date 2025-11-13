@@ -1,0 +1,201 @@
+user_id,age,gender,location,registration_date,preferred_categories,spending_level
+user_001,56,Male,Texas,2025-08-05 16:22:31.397992,['Beauty'],High
+user_002,57,Other,Pennsylvania,2025-10-22 16:22:31.398097,['Home'],Medium
+user_003,61,Male,New York,2024-04-29 16:22:31.398171,"['Electronics', 'Beauty', 'Automotive']",Low
+user_004,61,Other,Florida,2024-10-21 16:22:31.398229,['Books'],Low
+user_005,42,Female,California,2024-06-22 16:22:31.398295,"['Automotive', 'Fashion']",Low
+user_006,25,Other,Texas,2025-07-30 16:22:31.398351,"['Automotive', 'Sports']",Medium
+user_007,21,Female,Illinois,2025-02-15 16:22:31.398405,"['Electronics', 'Sports', 'Home']",High
+user_008,25,Female,Florida,2025-04-10 16:22:31.398458,['Fashion'],Medium
+user_009,62,Male,Illinois,2024-02-04 16:22:31.398515,"['Fashion', 'Books', 'Automotive']",Medium
+user_010,41,Other,Texas,2025-10-03 16:22:31.398567,"['Books', 'Fashion', 'Home']",High
+user_011,45,Other,New York,2024-03-10 16:22:31.398619,"['Fashion', 'Automotive']",Medium
+user_012,64,Female,Texas,2024-08-09 16:22:31.398670,['Beauty'],Low
+user_013,68,Other,New York,2024-05-21 16:22:31.398721,['Books'],Medium
+user_014,53,Male,Texas,2024-02-06 16:22:31.398776,"['Sports', 'Automotive', 'Electronics']",Medium
+user_015,45,Female,Pennsylvania,2025-02-03 16:22:31.398828,"['Beauty', 'Home', 'Automotive']",Low
+user_016,69,Male,New York,2025-03-24 16:22:31.398890,"['Home', 'Fashion', 'Books']",Medium
+user_017,61,Other,Texas,2024-06-21 16:22:31.398966,"['Sports', 'Beauty']",High
+user_018,56,Female,Texas,2024-04-26 16:22:31.399017,['Fashion'],Medium
+user_019,40,Male,New York,2025-03-11 16:22:31.399077,['Fashion'],Medium
+user_020,21,Other,Texas,2024-06-20 16:22:31.399133,"['Automotive', 'Sports', 'Books']",Medium
+user_021,65,Male,New York,2024-06-20 16:22:31.399196,"['Electronics', 'Books', 'Automotive']",Low
+user_022,36,Other,Florida,2024-09-24 16:22:31.399247,['Beauty'],Low
+user_023,47,Female,Texas,2025-03-04 16:22:31.399298,"['Sports', 'Beauty', 'Home']",High
+user_024,29,Male,Illinois,2024-10-05 16:22:31.399347,"['Home', 'Books', 'Fashion']",High
+user_025,41,Female,New York,2025-08-06 16:22:31.399398,"['Automotive', 'Home', 'Sports']",Low
+user_026,42,Male,California,2024-04-12 16:22:31.399467,"['Beauty', 'Home']",Low
+user_027,50,Female,Illinois,2025-10-22 16:22:31.399518,"['Books', 'Home', 'Automotive']",Medium
+user_028,63,Female,Pennsylvania,2025-02-02 16:22:31.399570,"['Fashion', 'Electronics']",Medium
+user_029,64,Male,Illinois,2025-04-07 16:22:31.399625,['Home'],Low
+user_030,47,Male,Pennsylvania,2025-01-15 16:22:31.399685,['Automotive'],Medium
+user_031,48,Other,Florida,2025-07-08 16:22:31.399744,['Books'],Medium
+user_032,35,Male,California,2024-01-20 16:22:31.399793,"['Electronics', 'Home', 'Automotive']",Low
+user_033,19,Other,Texas,2025-05-21 16:22:31.399843,"['Beauty', 'Sports']",Medium
+user_034,56,Male,California,2025-10-08 16:22:31.399905,"['Beauty', 'Home', 'Fashion']",Medium
+user_035,62,Male,Pennsylvania,2025-09-23 16:22:31.399955,"['Electronics', 'Beauty']",Medium
+user_036,42,Female,Pennsylvania,2025-09-20 16:22:31.400004,['Sports'],Low
+user_037,60,Male,New York,2024-11-28 16:22:31.400054,['Home'],High
+user_038,64,Other,Florida,2024-03-19 16:22:31.400105,['Beauty'],Medium
+user_039,43,Male,California,2025-08-09 16:22:31.400155,['Sports'],High
+user_040,65,Male,Illinois,2025-06-12 16:22:31.400204,['Fashion'],Low
+user_041,33,Other,Illinois,2024-08-17 16:22:31.400253,"['Books', 'Beauty']",Medium
+user_042,29,Female,California,2024-06-09 16:22:31.400307,['Sports'],Medium
+user_043,22,Female,Florida,2024-06-15 16:22:31.400376,"['Home', 'Fashion', 'Electronics']",Medium
+user_044,33,Other,California,2023-12-23 16:22:31.400426,['Beauty'],Medium
+user_045,60,Male,Florida,2025-01-15 16:22:31.400476,"['Home', 'Fashion', 'Beauty']",Low
+user_046,19,Male,Texas,2024-09-21 16:22:31.400526,"['Automotive', 'Home']",Medium
+user_047,68,Male,Florida,2025-02-09 16:22:31.400575,"['Fashion', 'Beauty']",Medium
+user_048,53,Female,Illinois,2024-01-19 16:22:31.400624,['Home'],Medium
+user_049,40,Female,Illinois,2025-09-12 16:22:31.400673,['Fashion'],High
+user_050,37,Male,Pennsylvania,2025-02-21 16:22:31.400727,['Books'],High
+user_051,24,Female,Florida,2024-07-17 16:22:31.400776,"['Fashion', 'Automotive', 'Electronics']",Medium
+user_052,40,Male,Illinois,2024-01-25 16:22:31.400827,['Home'],Medium
+user_053,64,Male,California,2025-05-27 16:22:31.400876,"['Beauty', 'Automotive']",Medium
+user_054,26,Female,Texas,2024-11-13 16:22:31.400934,"['Sports', 'Fashion']",Medium
+user_055,18,Female,Florida,2024-08-25 16:22:31.400983,['Beauty'],Low
+user_056,61,Female,Texas,2025-09-16 16:22:31.401032,"['Home', 'Automotive']",Medium
+user_057,37,Male,New York,2024-11-09 16:22:31.401082,"['Beauty', 'Automotive', 'Books']",Medium
+user_058,42,Male,Pennsylvania,2025-08-25 16:22:31.401131,['Automotive'],Medium
+user_059,38,Other,Florida,2025-01-12 16:22:31.401181,['Home'],Low
+user_060,31,Other,New York,2024-12-18 16:22:31.401230,['Books'],High
+user_061,49,Female,Florida,2025-10-03 16:22:31.401279,['Electronics'],Medium
+user_062,53,Other,Pennsylvania,2024-05-04 16:22:31.401329,"['Sports', 'Books', 'Fashion']",Low
+user_063,52,Male,Pennsylvania,2025-03-07 16:22:31.401378,"['Beauty', 'Automotive']",High
+user_064,62,Male,New York,2023-12-25 16:22:31.401427,"['Fashion', 'Beauty']",Medium
+user_065,30,Male,California,2023-12-05 16:22:31.401487,['Beauty'],Medium
+user_066,48,Male,Pennsylvania,2025-08-20 16:22:31.401538,"['Fashion', 'Sports', 'Books']",Medium
+user_067,31,Male,Pennsylvania,2025-10-10 16:22:31.401588,['Automotive'],Medium
+user_068,45,Other,California,2025-03-22 16:22:31.401637,"['Electronics', 'Fashion']",High
+user_069,22,Female,Pennsylvania,2025-08-02 16:22:31.401686,"['Fashion', 'Sports', 'Books']",High
+user_070,55,Female,Pennsylvania,2025-05-31 16:22:31.401735,"['Electronics', 'Beauty']",Medium
+user_071,50,Other,Florida,2025-05-13 16:22:31.401785,"['Beauty', 'Home']",Low
+user_072,34,Female,New York,2025-07-25 16:22:31.401834,['Sports'],Medium
+user_073,40,Other,Texas,2025-09-13 16:22:31.401884,"['Books', 'Home']",Medium
+user_074,68,Other,Illinois,2024-02-07 16:22:31.401933,['Sports'],Medium
+user_075,58,Female,Pennsylvania,2025-09-27 16:22:31.401982,"['Home', 'Fashion']",Low
+user_076,39,Other,Pennsylvania,2025-03-05 16:22:31.402031,"['Sports', 'Fashion', 'Beauty']",Medium
+user_077,69,Other,Pennsylvania,2025-11-06 16:22:31.402081,"['Beauty', 'Sports']",Low
+user_078,20,Other,Pennsylvania,2025-10-29 16:22:31.402132,"['Electronics', 'Sports', 'Beauty']",Medium
+user_079,42,Other,Illinois,2024-05-25 16:22:31.402181,"['Home', 'Fashion']",Medium
+user_080,34,Male,Florida,2025-07-25 16:22:31.402230,['Home'],Low
+user_081,39,Female,New York,2025-01-02 16:22:31.402279,"['Beauty', 'Sports', 'Fashion']",Medium
+user_082,62,Female,Illinois,2024-11-28 16:22:31.402328,['Sports'],Medium
+user_083,28,Female,Pennsylvania,2025-04-04 16:22:31.402377,"['Beauty', 'Books']",Medium
+user_084,23,Female,Florida,2025-05-03 16:22:31.402427,"['Sports', 'Home', 'Automotive']",High
+user_085,32,Other,California,2023-11-20 16:22:31.402477,"['Electronics', 'Sports', 'Beauty']",Medium
+user_086,50,Male,Florida,2025-02-27 16:22:31.402527,"['Fashion', 'Automotive', 'Sports']",Medium
+user_087,50,Female,California,2024-12-27 16:22:31.402576,"['Sports', 'Automotive']",High
+user_088,54,Male,New York,2025-03-22 16:22:31.402637,['Fashion'],High
+user_089,67,Female,Illinois,2024-04-20 16:22:31.402686,"['Beauty', 'Automotive', 'Home']",Medium
+user_090,46,Other,New York,2025-08-27 16:22:31.402735,['Books'],Low
+user_091,43,Female,Florida,2023-12-23 16:22:31.402794,['Automotive'],Medium
+user_092,55,Male,New York,2025-10-05 16:22:31.402843,['Sports'],Low
+user_093,68,Female,Pennsylvania,2024-07-23 16:22:31.402918,"['Home', 'Electronics', 'Beauty']",Medium
+user_094,56,Other,Florida,2025-03-04 16:22:31.402968,['Books'],Medium
+user_095,21,Female,California,2025-03-30 16:22:31.403018,"['Fashion', 'Beauty']",Medium
+user_096,62,Other,Illinois,2025-01-25 16:22:31.403069,['Sports'],Medium
+user_097,43,Other,Texas,2024-12-02 16:22:31.403119,['Electronics'],Medium
+user_098,63,Other,Florida,2023-12-31 16:22:31.403168,"['Automotive', 'Sports']",Medium
+user_099,29,Male,Illinois,2025-10-15 16:22:31.403218,"['Home', 'Beauty', 'Automotive']",Medium
+user_100,31,Male,Pennsylvania,2025-11-12 16:22:31.403267,"['Fashion', 'Sports', 'Books']",Low
+user_101,68,Other,Illinois,2024-04-17 16:22:31.403316,"['Fashion', 'Sports', 'Beauty']",Medium
+user_102,69,Male,California,2025-05-18 16:22:31.403365,"['Fashion', 'Electronics', 'Home']",Medium
+user_103,41,Male,Florida,2025-06-10 16:22:31.403414,"['Books', 'Fashion']",Medium
+user_104,67,Male,New York,2023-12-13 16:22:31.403463,"['Beauty', 'Sports', 'Books']",Low
+user_105,57,Male,New York,2025-02-01 16:22:31.403512,['Electronics'],Low
+user_106,66,Male,Illinois,2024-06-29 16:22:31.403561,"['Fashion', 'Home']",Medium
+user_107,45,Male,California,2024-08-12 16:22:31.403610,"['Books', 'Automotive']",High
+user_108,36,Female,California,2024-08-27 16:22:31.403658,['Beauty'],Low
+user_109,25,Female,New York,2025-08-09 16:22:31.403707,"['Fashion', 'Books', 'Automotive']",Low
+user_110,41,Female,Pennsylvania,2025-11-06 16:22:31.403758,"['Sports', 'Beauty', 'Electronics']",Low
+user_111,27,Other,New York,2023-12-05 16:22:31.403807,"['Fashion', 'Books', 'Electronics']",Medium
+user_112,37,Other,California,2025-04-01 16:22:31.403856,"['Automotive', 'Beauty', 'Electronics']",Medium
+user_113,61,Other,Florida,2023-11-17 16:22:31.403905,"['Home', 'Sports']",High
+user_114,49,Male,California,2025-04-26 16:22:31.403955,"['Sports', 'Home', 'Books']",Medium
+user_115,39,Other,Pennsylvania,2025-06-20 16:22:31.404004,"['Fashion', 'Electronics']",Low
+user_116,38,Female,Florida,2024-03-24 16:22:31.404054,['Sports'],High
+user_117,59,Female,Illinois,2024-08-15 16:22:31.404104,"['Automotive', 'Home', 'Books']",Medium
+user_118,27,Male,New York,2023-12-09 16:22:31.404208,"['Electronics', 'Sports']",High
+user_119,68,Male,Florida,2025-05-10 16:22:31.404264,"['Electronics', 'Automotive', 'Fashion']",High
+user_120,56,Other,Pennsylvania,2025-06-18 16:22:31.404404,"['Sports', 'Books']",Low
+user_121,36,Other,Florida,2024-08-20 16:22:31.404483,"['Fashion', 'Books', 'Home']",Medium
+user_122,26,Male,New York,2025-07-05 16:22:31.404546,['Beauty'],Low
+user_123,67,Male,Florida,2025-10-27 16:22:31.404604,"['Home', 'Electronics', 'Sports']",Low
+user_124,27,Male,New York,2024-07-16 16:22:31.404659,"['Books', 'Electronics', 'Home']",Medium
+user_125,33,Female,New York,2025-01-29 16:22:31.404714,"['Beauty', 'Home']",Medium
+user_126,27,Other,New York,2025-06-29 16:22:31.404767,"['Fashion', 'Electronics', 'Beauty']",Medium
+user_127,68,Female,Texas,2024-03-08 16:22:31.404820,"['Electronics', 'Beauty', 'Automotive']",Medium
+user_128,34,Female,Texas,2025-10-05 16:22:31.404872,['Fashion'],Medium
+user_129,32,Male,Florida,2025-07-28 16:22:31.404924,['Sports'],Medium
+user_130,19,Other,Texas,2024-03-15 16:22:31.404978,"['Automotive', 'Fashion']",Medium
+user_131,52,Other,Pennsylvania,2024-08-30 16:22:31.405030,['Sports'],Medium
+user_132,61,Other,New York,2024-09-10 16:22:31.405081,"['Sports', 'Books']",Low
+user_133,31,Female,California,2024-04-07 16:22:31.405132,"['Books', 'Sports']",High
+user_134,32,Male,New York,2024-08-30 16:22:31.405183,"['Fashion', 'Automotive', 'Sports']",Medium
+user_135,63,Other,Pennsylvania,2024-04-17 16:22:31.405234,['Beauty'],High
+user_136,68,Male,Pennsylvania,2024-06-14 16:22:31.405285,"['Fashion', 'Automotive']",High
+user_137,22,Female,New York,2023-12-24 16:22:31.405335,['Home'],Medium
+user_138,35,Female,New York,2024-04-12 16:22:31.405385,"['Books', 'Automotive', 'Electronics']",Low
+user_139,31,Male,California,2024-12-16 16:22:31.405435,"['Books', 'Home', 'Automotive']",Low
+user_140,59,Male,New York,2025-05-21 16:22:31.405486,['Electronics'],Low
+user_141,43,Female,Pennsylvania,2025-01-16 16:22:31.405536,['Books'],Low
+user_142,49,Female,Illinois,2025-02-24 16:22:31.405586,"['Home', 'Electronics', 'Beauty']",Low
+user_143,41,Other,Florida,2025-05-27 16:22:31.405636,['Books'],Medium
+user_144,53,Other,Texas,2024-05-27 16:22:31.405686,"['Beauty', 'Automotive']",Low
+user_145,59,Female,Texas,2025-01-22 16:22:31.405736,['Sports'],Medium
+user_146,19,Male,Pennsylvania,2024-11-13 16:22:31.405787,"['Home', 'Books', 'Sports']",Medium
+user_147,52,Female,Texas,2024-12-13 16:22:31.405837,"['Sports', 'Home']",Medium
+user_148,47,Male,Illinois,2024-10-08 16:22:31.405887,"['Electronics', 'Home']",Medium
+user_149,27,Female,New York,2023-11-28 16:22:31.405937,"['Electronics', 'Beauty']",Medium
+user_150,53,Other,Texas,2024-08-11 16:22:31.405992,['Beauty'],Medium
+user_151,40,Female,California,2025-02-15 16:22:31.406043,"['Automotive', 'Beauty']",High
+user_152,46,Male,Texas,2024-10-27 16:22:31.406090,"['Home', 'Electronics']",High
+user_153,61,Male,Illinois,2024-06-24 16:22:31.406133,"['Automotive', 'Electronics', 'Beauty']",Medium
+user_154,18,Female,Florida,2025-02-15 16:22:31.406176,"['Beauty', 'Fashion']",Medium
+user_155,61,Other,Florida,2025-04-28 16:22:31.406220,"['Books', 'Fashion']",High
+user_156,20,Male,Florida,2025-04-21 16:22:31.406265,['Home'],Medium
+user_157,24,Male,Pennsylvania,2024-10-23 16:22:31.406308,['Automotive'],Medium
+user_158,41,Other,Illinois,2025-11-02 16:22:31.406352,['Fashion'],Medium
+user_159,62,Male,New York,2025-09-28 16:22:31.406396,"['Books', 'Home']",Low
+user_160,49,Other,Pennsylvania,2025-04-02 16:22:31.406440,"['Home', 'Sports']",Low
+user_161,50,Male,Illinois,2025-08-15 16:22:31.406484,"['Sports', 'Automotive']",Low
+user_162,63,Female,California,2025-11-04 16:22:31.406527,"['Beauty', 'Home', 'Sports']",Medium
+user_163,23,Male,New York,2025-11-06 16:22:31.406572,"['Sports', 'Electronics']",High
+user_164,28,Female,California,2025-11-01 16:22:31.406631,"['Home', 'Beauty']",Low
+user_165,40,Male,New York,2024-02-21 16:22:31.406674,['Electronics'],Medium
+user_166,49,Other,Florida,2025-09-15 16:22:31.406717,"['Home', 'Fashion']",Medium
+user_167,20,Female,Texas,2025-10-20 16:22:31.406770,"['Fashion', 'Books', 'Beauty']",High
+user_168,37,Male,Florida,2025-03-08 16:22:31.406813,"['Beauty', 'Home']",Medium
+user_169,51,Female,California,2024-02-09 16:22:31.406864,"['Electronics', 'Fashion']",Medium
+user_170,62,Female,Illinois,2024-06-05 16:22:31.406907,"['Beauty', 'Automotive', 'Home']",Medium
+user_171,31,Female,Illinois,2025-10-30 16:22:31.406949,['Automotive'],Medium
+user_172,56,Male,Florida,2025-06-03 16:22:31.406992,"['Books', 'Fashion']",Medium
+user_173,54,Male,New York,2024-03-18 16:22:31.407036,['Electronics'],Medium
+user_174,27,Female,New York,2025-02-02 16:22:31.407080,['Books'],Low
+user_175,60,Male,Illinois,2025-03-07 16:22:31.407123,['Books'],Medium
+user_176,37,Female,Pennsylvania,2025-04-29 16:22:31.407179,"['Beauty', 'Sports']",Low
+user_177,54,Male,Texas,2025-04-11 16:22:31.407227,['Beauty'],High
+user_178,60,Female,California,2025-05-19 16:22:31.407283,['Beauty'],Medium
+user_179,40,Female,Florida,2025-11-05 16:22:31.407326,"['Electronics', 'Sports', 'Books']",Medium
+user_180,67,Male,New York,2025-01-06 16:22:31.407369,"['Fashion', 'Electronics', 'Books']",Medium
+user_181,43,Other,California,2024-12-03 16:22:31.407422,"['Home', 'Fashion']",Medium
+user_182,63,Male,New York,2025-04-07 16:22:31.407465,"['Books', 'Sports', 'Electronics']",Low
+user_183,19,Female,Pennsylvania,2025-06-07 16:22:31.407518,"['Books', 'Sports', 'Fashion']",Low
+user_184,58,Other,Florida,2024-10-12 16:22:31.407561,"['Electronics', 'Automotive']",High
+user_185,58,Other,Texas,2023-12-03 16:22:31.407606,['Books'],Medium
+user_186,32,Male,Texas,2025-02-19 16:22:31.407649,['Books'],Low
+user_187,52,Female,Pennsylvania,2024-08-20 16:22:31.407692,"['Fashion', 'Automotive']",High
+user_188,23,Male,Illinois,2025-10-01 16:22:31.407735,"['Beauty', 'Sports']",Medium
+user_189,65,Other,Pennsylvania,2024-12-12 16:22:31.407778,"['Automotive', 'Beauty']",Low
+user_190,64,Male,Florida,2024-07-31 16:22:31.407821,"['Automotive', 'Books', 'Beauty']",High
+user_191,36,Female,Pennsylvania,2025-01-26 16:22:31.407864,['Beauty'],High
+user_192,25,Female,Florida,2025-02-23 16:22:31.407915,"['Sports', 'Fashion']",Medium
+user_193,48,Female,Illinois,2024-08-18 16:22:31.407969,"['Fashion', 'Sports', 'Home']",High
+user_194,24,Female,New York,2025-04-07 16:22:31.408012,['Electronics'],Medium
+user_195,26,Female,New York,2025-09-25 16:22:31.408055,"['Fashion', 'Sports', 'Beauty']",Medium
+user_196,43,Other,Illinois,2024-01-07 16:22:31.408106,"['Home', 'Electronics']",Low
+user_197,27,Male,California,2024-01-21 16:22:31.408170,['Home'],Low
+user_198,65,Male,Texas,2024-12-28 16:22:31.408213,"['Fashion', 'Automotive', 'Home']",Low
+user_199,52,Other,Illinois,2025-02-06 16:22:31.408256,"['Beauty', 'Fashion']",Low
+user_200,63,Other,Florida,2025-09-01 16:22:31.408299,"['Fashion', 'Sports']",Medium

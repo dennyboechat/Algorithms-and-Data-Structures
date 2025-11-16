@@ -161,23 +161,3 @@ Run the test script:
 ```bash
 python3 test_data_structures.py
 ```
-
-### 5. Error Handling
-
-The implementation includes proper error handling:
-
-- **IndexError** for out-of-bounds access in arrays and matrices
-- **IndexError** for operations on empty stacks and queues
-- **Return values** indicating success/failure for linked list operations
-
-### 6. Performance Considerations
-
-- See `report.md` for detailed performance analysis and time complexity information
-- Arrays provide O(1) access but O(n) deletion
-- Stacks have O(1) operations for push/pop/peek
-- Queues have O(n) dequeue operation due to array shifting
-- Linked Lists have O(n) operations for search and insertion at end
-
-## Contributing
-
-Feel free to extend these implementations with additional methods or create more efficient versions (e.g., circular queue, doubly linked list).

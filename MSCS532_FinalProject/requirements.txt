@@ -1,0 +1,16 @@
+# Matrix Multiplication Project Requirements
+# MSCS 532 - Final Project
+
+# No external dependencies required for the core implementation
+# The project uses only Python standard library
+
+# For development and testing (optional):
+# pytest>=7.0.0  # Alternative testing framework
+# numpy>=1.21.0  # For performance comparison (optional)
+# matplotlib>=3.5.0  # For visualization (optional)
+
+# This project is designed to work with Python 3.7+ and uses only built-in modules:
+# - unittest (for testing)
+# - time (for performance measurement)
+# - random (for random matrix generation)
+# - sys, os (for path management in tests)
